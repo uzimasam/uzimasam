@@ -2,7 +2,7 @@
 ![Metrics](/github-metrics.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzimasam&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 query userInfo($login: String!) {
-  user(login: $login) {
+  user(uzimasam: $login) {
     # fetch only owner repos & not forks
     repositories(ownerAffiliations: OWNER, isFork: false, first: 100) {
       nodes {
@@ -20,4 +20,3 @@ query userInfo($login: String!) {
     }
   }
 }
-{"login": "uzimasam"}
