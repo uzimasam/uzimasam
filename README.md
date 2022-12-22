@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi!</h1>
-<p>I'm Web Dev since 2015.</p>
+<p>I'm Web Dev since 2019.</p>
 
 # Languages/Tools
 
@@ -30,7 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width=32 height=32 />
 
 
-#Stats
+# Stats/Metrics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uzimasam&theme=tokyonight&date_format=j%20M%5B%20Y%5D&stroke=DD50B5&fire=DD2727&currStreakNum=2DDD76)](https://git.io/streak-stats)
 ![Metrics](/github-metrics.svg)
