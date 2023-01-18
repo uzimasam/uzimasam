@@ -40,4 +40,4 @@
 ![Metrics](/github-metrics.svg)
 
   
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSaruni&langs_count=5&theme=dark)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uzimasam&langs_count=5&theme=dark)]()
