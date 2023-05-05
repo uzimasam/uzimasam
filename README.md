@@ -35,7 +35,6 @@
 
 
 # Stats/Metrics
-[![wakatime](https://wakatime.com/badge/user/ed9a3ffc-02a8-4920-a457-e92fe35f6681.svg)](https://wakatime.com/@ed9a3ffc-02a8-4920-a457-e92fe35f6681)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uzimasam&theme=tokyonight&date_format=j%20M%5B%20Y%5D&stroke=DD50B5&fire=DD2727&currStreakNum=2DDD76)](https://git.io/streak-stats)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uzimasam&langs_count=5&theme=dark)]()
 ![Metrics](/github-metrics.svg)
