@@ -10,5 +10,6 @@
 
 
 # 📊 GitHub Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?uzimasam=ffflabs\&layout=compact)
 ![Uzimasam's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzimasam&show_icons=true&theme=radical)
-[![Uzimasam's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uzimasam)](https://github.com/uzimasam/uzimasam)
+[![Uzimasam's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?uzimasam=ffflabs\&layout=compact)
