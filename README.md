@@ -36,7 +36,7 @@ I work across product, backend, APIs, data, frontend, and infrastructure, turnin
   <img alt="Remote" src="https://img.shields.io/badge/Remote-Nairobi%20UTC%2B3-238636?style=flat-square" />
 </p>
 
-- Building and operating core systems for [Africa's Pocket](https://africaspocket.com), a regulated investment platform, through Reduzer.
+- Building and operating core systems for [Africa's Pocket](https://africaspocket.com), a regulated investment platform, through [Reduzer](https://reduzer.tech).
 - Working on transaction-safe financial workflows, integrations, migrations, reporting, and production reliability.
 - Recently led backend engineering for [Vabu Group](https://vabu.group) after progressing from [Payd](https://payd.money)'s payment services at GetPayd Technologies.
 - Open to remote Laravel/PHP product roles and B2B engineering engagements with EMEA and global teams.
